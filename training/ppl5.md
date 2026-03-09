@@ -13,16 +13,16 @@
 ---
 
 ## **Pull #1**
-| Exercise                             | Sets  | Reps     |
-| :---                                 | :---: | :---:    |
-| **Lat Pulldown (Feeder Sets)**       | 4     | 10       |
-| **Lat Pulldown (Failure Set)**       | 1     | 10+5     |
-| **Omni-Grip Chest-Supported Row**    | 3     | 10–12    |
-| **A1. Bottom-Half DB Lat Pullover**  | 2     | 10–12    |
-| **A2. Lat Static Stretch**           | 2     | 30s      |
-| **Omni-Direction Face Pull**         | 3     | 12–15    |
-| **EZ-Bar Curl**                      | 3     | 6–8      |
-| **Bottom-Half Preacher Curl**        | 2     | 10–12    |
+| Exercise                            | Sets | Reps  |
+| :---------------------------------- | :--: | :---: |
+| **Lat Pulldown (Feeder Sets)**      |  4   |  10   |
+| **Lat Pulldown (Failure Set)**      |  1   | 10+5  |
+| **Omni-Grip Chest-Supported Row**   |  3   | 10–12 |
+| **A1. Bottom-Half DB Lat Pullover** |  2   | 10–12 |
+| **A2. Lat Static Stretch**          |  2   |  30s  |
+| **Omni-Direction Face Pull**        |  3   | 12–15 |
+| **EZ-Bar Curl**                     |  3   |  6–8  |
+| **Bottom-Half Preacher Curl**       |  2   | 10–12 |
 
 ---
 
