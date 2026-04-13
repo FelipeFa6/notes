@@ -1,25 +1,28 @@
-## Proteínas (Carnes)
-- [ ] 500g Carne molida (vacuno)
-- [ ] 1,6Kg Pollo
+# Compras para el mes
 
-> Valor aproximado ~ $20.000
+No perecibles
+---
 
-## Verduras Base
-- [ ] Cebollas
-- [ ] Ajos
-- [ ] Zanahorias
-- [ ] Pimentones (rojo y verde)
-- [ ] Tomates
+- Arroz
+- Legumbres
+- Atun
+- Salsa de Tomates
+- Pastas
+- Sal, Azucar, Cafe y Te
 
-## Verdes y Otros
-- [ ] Espinacas o acelgas
-- [ ] Brócoli o coliflor
-- [ ] Lechuga o rúcula
-- [ ] Paltas (aguacate)
+Congelados
+---
+- Verduras
+- Carne
+- Fruta Congelada
 
-## Frutas
-- [ ] Plátanos
-- [ ] Duraznos
-- [ ] Naranjas o mandarinas
-- [ ] Limones
+Lacteos y Refrigerados
+---
+- Huevo
+- Leche
+
+Frutas y Verduras
+---
+- Papa, Cebolla, Ajo, Zanahoria
+- Platanos, Naranjas, Limon
 
