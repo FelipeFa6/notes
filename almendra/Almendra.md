@@ -5,21 +5,29 @@
 - 3 de cada mes inyección
 ### 🎬 peliculas
 
-- [x]  500 days of summer
-- [x]  Anora
-- [x]  El Señor de los Anillos
-- [x]  Cien años de soledad
-- [x]  El Cisne Negro
-- [x]  Pobres Criaturas
-- [x]  Crepusculo (casi todas)
-- [x]  Sociedad de la nieve
-- [x]  Shrek 2
-- [ ]  OJ Simpson documental
-- [ ]  La memoria Infinita
-- [ ]  El aro
-- [ ]  La casa de los secretos documental
-- [x]  Bugonia
-- [ ]  Mother
+- [x] 500 days of summer
+- [x] Anora
+- [x] Bugonia
+- [x] Cien años de soledad
+- [x] Crepusculo (casi todas)
+- [x] El Cisne Negro
+- [x] El Señor de los Anillos
+- [x] Pobres Criaturas
+- [x] Shrek 2
+- [x] Sociedad de la nieve
+
+- [ ] El aro
+- [ ] La memoria Infinita
+- [ ] Los juegos del hambre 
+- [ ] Mother
+- [ ] Smile 
+- [ ] Alien
+- [ ] El Exorcista 
+- [ ] Malcom X
+
+### Documentales
+- [ ] OJ Simpson documental
+- [ ] La casa de los secretos documental
 
 ### Series
 
