@@ -9,21 +9,27 @@
 - [x] Anora
 - [x] Bugonia
 - [x] Cien años de soledad
-- [x] Crepusculo (casi todas)
+- [x] Saga Crepusculo
 - [x] El Cisne Negro
-- [x] El Señor de los Anillos
+- [x] El Exorcista 
+- [x] El Señor de los Anillos 1
+- [x] Eternal Sunshine of the Spotless Mind
 - [x] Pobres Criaturas
+- [x] Rosemary's Baby 
 - [x] Shrek 2
 - [x] Sociedad de la nieve
 
+- [ ] Lista de Schindler
+- [ ] Salvando Al Soldado Ryan
+- [ ] Alien
+- [ ] El Señor de los Anillos 2
+- [ ] El Señor de los Anillos 3
 - [ ] El aro
 - [ ] La memoria Infinita
 - [ ] Los juegos del hambre 
+- [ ] Malcom X
 - [ ] Mother
 - [ ] Smile 
-- [ ] Alien
-- [ ] El Exorcista 
-- [ ] Malcom X
 
 ### Documentales
 - [ ] OJ Simpson documental
