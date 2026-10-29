@@ -2,12 +2,12 @@
 
 ### Tabla principal
 
-| exercise              | muscle group | warmpup | working sets | reps |
+| exercise              | muscle group | warmup | working sets | reps |
 | ---------------------- | :------------- | ------------: | ----------------: | :-----------: |
 | Bench Press            | Pectorals      |             3 |                 4 |      3-6      |
 | Dumbbell Press Stretch | Pectorals      |             1 |                 3 |     8-10      |
 | Shoulder Press         | Shoulders      |             2 |                 4 |     8-10      |
-| DB Flye                | Shoulders      |             0 |                 4 |     8-12      |
+| Lateral Raise          | Shoulders      |             0 |                 4 |     8-12      |
 | Tricep Pressdown       | Triceps        |             1 |                 4 |     8-12      |
 | Skull Crusher          | Triceps        |             0 |                 3 |     8-12      |
 
@@ -31,7 +31,7 @@
     3. 
     4. 
 
-- DB Flye
+- Lateral Raise
     1. 
     2. 
     3. 
