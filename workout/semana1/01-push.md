@@ -2,7 +2,7 @@
 
 ### Tabla principal
 
-| Ejercicio              | Grupo muscular | Calentamiento | Series de trabajo | Reps objetivo |
+| exercise              | muscle group | warmpup | working sets | reps |
 | ---------------------- | :------------- | ------------: | ----------------: | :-----------: |
 | Bench Press            | Pectorals      |             3 |                 4 |      3-6      |
 | Dumbbell Press Stretch | Pectorals      |             1 |                 3 |     8-10      |
@@ -11,15 +11,41 @@
 | Tricep Pressdown       | Triceps        |             1 |                 4 |     8-12      |
 | Skull Crusher          | Triceps        |             0 |                 3 |     8-12      |
 
-### Registro por ejercicio — peso/reps por serie
 
-| Ejercicio              | Series | S1 (peso/reps) | S2 (peso/reps) | S3 (peso/reps) | S4 (peso/reps) |
-| ---------------------- | -----: | :------------- | :------------- | :------------- | :------------- |
-| Bench Press            |      4 |                |                |                |                |
-| Dumbbell Press Stretch |      3 |                |                |                | —              |
-| Shoulder Press         |      4 |                |                |                |                |
-| DB Flye                |      4 |                |                |                |                |
-| Tricep Pressdown       |      4 |                |                |                |                |
-| Skull Crusher          |      3 |                |                |                | —              |
+## Registro por series
 
-> **—** = serie no aplica para ese ejercicio.
+- Bench Press:
+    1. 
+    2. 
+    3. 
+    4. 
+
+- Dumbbell Press Stretch
+    1. 
+    2. 
+    3. 
+
+- Shoulder Press
+    1. 
+    2. 
+    3. 
+    4. 
+
+- DB Flye
+    1. 
+    2. 
+    3. 
+    4. 
+
+
+- Tricep Pressdown
+    1. 
+    2. 
+    3. 
+    4. 
+
+- Skull Crusher
+    1. 
+    2. 
+    3. 
+
